@@ -1,8 +1,6 @@
 package core
 
-import (
-	"fmt"
-)
+import "fmt"
 
 // Agent must be implemented by the CORE code running.
 type Agent interface {
